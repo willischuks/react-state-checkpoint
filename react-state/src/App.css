@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  padding: 0;
+  margin: 0;
+  font-family: barlow;
+  background-image: url(./Assets/boxinn.webp);
+  background-repeat: no-repeat ;
+  background-size: cover;
+
+}
+.App p{
+  font-weight: 500;
+  font-style: italic;
+  color: red;
+}
+.App button{
+  background-color: red;
+  border: none;
+  margin-top: 10px;
+  padding: 10px;
+  width: 400px;
+  color: whitesmoke;
+  font-size: larger;
+}
+.profileContainer{
+  width: 250px;
+  margin-left: 40%;
+}
+.profileContainer img{
+  width: 250px;
+}
